@@ -1,5 +1,5 @@
 # Singing Pig Capital      
-![N|Solidity](https://static-s.aa-cdn.net/img/ios/1246087548/aa4ec7698dc9740e026aa5fe06815e62?v=1)
+![Solidity](https://static-s.aa-cdn.net/img/ios/1246087548/aa4ec7698dc9740e026aa5fe06815e62?v=1)
 
 ## Breakdown
 
@@ -12,18 +12,18 @@ The core goals of the project are to:
 - Determine how we would like these tokens to behave as a security - i.e. do we want them to have dividends, a large principal payout at fund termination, etc.? - and develop both the logic and mechanism for coordinating these payouts.
 
 ## Technologies
-![N|Solidity](https://hackernoon.com/hn-images/1*6hFbv6Q21jOuBbpVRtmnDg.png)
+![Solidity](https://hackernoon.com/hn-images/1*6hFbv6Q21jOuBbpVRtmnDg.png)
 
 ### Solidity for minting tokens, defining token behavior, and smart contracts
 
-![N|Python](https://awaywithideas.com/wp-content/uploads/2019/10/Python.svg_-e1571602766898.png)                       
+![Python](https://awaywithideas.com/wp-content/uploads/2019/10/Python.svg_-e1571602766898.png)                       
 
-![N|ML](https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-23-911028.png)
+![ML](https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-23-911028.png)
 
 ### Python SciKit LSTM machine learning models for token price forecasting 
 
 
-![N|Metamask](https://walletconnect.org/static/metamask-69ce6b56bbc9953dfb4aecebdf88729b.png)
+![Metamask](https://walletconnect.org/static/metamask-69ce6b56bbc9953dfb4aecebdf88729b.png)
 
 ### Ganache for ethereum account / wallet creation 
 ### Metamask for simulating trades + payouts
@@ -32,4 +32,4 @@ The core goals of the project are to:
 
 
 
-[![N|Solid](https://img.icons8.com/bubbles/2x/github.png)](https://github.com/mostafajoma/project-3.git)
+[![Solid](https://img.icons8.com/bubbles/2x/github.png)](https://github.com/mostafajoma/project-3.git)
