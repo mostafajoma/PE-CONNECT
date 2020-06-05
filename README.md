@@ -16,12 +16,15 @@ The core goals of the project are to:
 
 ### Solidity for minting tokens, defining token behavior, and smart contracts
 
-![N|Python](https://awaywithideas.com/wp-content/uploads/2019/10/Python.svg_-e1571602766898.png)                       ![N|ML](https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-23-911028.png)
+![N|Python](https://awaywithideas.com/wp-content/uploads/2019/10/Python.svg_-e1571602766898.png)                       
+
+![N|ML](https://cdn.iconscout.com/icon/premium/png-256-thumb/machine-learning-23-911028.png)
 
 ### Python SciKit LSTM machine learning models for token price forecasting 
 
 
 ![N|Metamask](https://walletconnect.org/static/metamask-69ce6b56bbc9953dfb4aecebdf88729b.png)
+
 ### Ganache for ethereum account / wallet creation 
 ### Metamask for simulating trades + payouts
 
